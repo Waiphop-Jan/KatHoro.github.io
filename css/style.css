@@ -1,0 +1,45 @@
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+body {
+    font-family: "Mitr" , sans-serif !important;
+}
+
+.main-bg {
+    background-image: linear-gradient(-90deg,#647DEE, #7F53AC);
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+}
+
+.nav-item a {
+    color: #4a4a4a;
+    font-weight: 400;
+}
+
+.topic {
+    color: #4a4a4a;
+}
+
+hr {
+    border-color:  #7F53AC;
+}
+
+.tab-pane {
+    color: #4a4a4a;
+}
+
+.zodiac-bg {
+    background-color: #eeeeee;
+    height: 300px;
+}
+
+footer {
+    background-image: linear-gradient(-90deg,#647DEE, #7F53AC);
+}
+
+.btn-login {
+    background-image: linear-gradient(-90deg,#647DEE, #7F53AC) !important;
+}
+
